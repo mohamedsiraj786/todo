@@ -1,0 +1,23 @@
+{
+  "name": "revised-login-form",
+  "version": "1.0.0",
+  "description": "A Pen created on CodePen.io. Original URL: .",
+  "main": "server.js",
+  "scripts": {
+    "build": "xcopy /s src\\* build\\"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedsiraj786/todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedsiraj786/todo/issues"
+  },
+  "homepage": "https://github.com/mohamedsiraj786/todo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

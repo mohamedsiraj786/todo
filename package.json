@@ -4,7 +4,7 @@
   "description": "A Pen created on CodePen.io. Original URL: .",
   "main": "server.js",
   "scripts": {
-    "build": "xcopy /s src\\* build\\"
+   "start":"node server.js"
   },
 
   "repository": {
